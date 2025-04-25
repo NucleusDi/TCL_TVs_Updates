@@ -47,8 +47,7 @@
                 "md5": "f0e1d2c3b4a5..."
             },
             "url": "https://disk.yandex.ru/d/b4EHnnb560csTA/V8-T615T03-LF1V618.zip",
-            "important_note_en": "Requires USB flash drive FAT32 format",
-            "important_note_ru": "проверка"
+            "important_note": "Requires USB flash drive FAT32 format"
         }
     ]
 }
