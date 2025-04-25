@@ -337,20 +337,6 @@
                 "sha256": ""
             },
             "url": ""
-        },
-        {
-            "model": "TCL C835",
-            "version": "V8-T615T03-LF1V618",
-            "release_date": "",
-            "description": {
-                "ru": "",
-                "en": ""
-            },
-            "file_size": "",
-            "checksum": {
-                "sha256": ""
-            },
-            "url": ""
         }
     ]
 }
