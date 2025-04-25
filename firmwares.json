@@ -1,53 +1,356 @@
 {
     "schema_version": 1.2,
-    "last_updated": "2023-11-15",
+    "last_updated": "2023-11-20",
     "firmwares": [
         {
             "model": "TCL C835",
-            "version": "V8-T615T03-LF1V189",
-            "release_date": "2023-10-25",
+            "version": "V8-T615T03-LF1V414",
+            "release_date": "",
             "description": {
-                "en": "• Added HDR10+ Adaptive support\n• Improved system stability",
-                "ru": "• Добавлена поддержка HDR10+ Adaptive\n• Улучшена стабильность системы"
+                "ru": "",
+                "en": ""
             },
-            "file_size": "2.1 GB",
+            "file_size": "",
             "checksum": {
-                "sha256": "a1b2c3d4e5f6...",
-                "md5": "f0e1d2c3b4a5..."
+                "sha256": ""
             },
-            "url": "https://disk.yandex.ru/d/abcd1234",
-            "important_note": "Requires USB flash drive FAT32 format"
+            "url": ""
         },
-                {
+        {
             "model": "TCL C835",
-            "version": "V8-T615T03-LF1V175",
-            "release_date": "2023-08-12",
+            "version": "V8-T615T03-LF1V418",
+            "release_date": "",
             "description": {
-                "en": "• Initial Android TV 11 release\n• Dolby Vision improvements",
-                "ru": "• Первоначальная версия Android TV 11\n• Улучшения Dolby Vision"
+                "ru": "",
+                "en": ""
             },
-            "file_size": "1.9 GB",
+            "file_size": "",
             "checksum": {
-                "sha256": "b2c3d4e5f6a1...",
-                "md5": "e1d2c3b4a5f0..."
+                "sha256": ""
             },
-            "url": "https://disk.yandex.ru/d/xyz9876"
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V432",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V434",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V438",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V445",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V462",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V463",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V469",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V473",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V474",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V503",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V511",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V562",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V582",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V587",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V590",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V592",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V599",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V603",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V605",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V613",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V614",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
+        },
+        {
+            "model": "TCL C835",
+            "version": "V8-T615T03-LF1V617",
+            "release_date": "",
+            "description": {
+                "ru": "",
+                "en": ""
+            },
+            "file_size": "",
+            "checksum": {
+                "sha256": ""
+            },
+            "url": ""
         },
         {
             "model": "TCL C835",
             "version": "V8-T615T03-LF1V618",
-            "release_date": "2025-03-05",
+            "release_date": "",
             "description": {
-                "en": "• Added HDR10+ Adaptive support\n• Improved system stability",
-                "ru": "• Добавлена поддержка HDR10+ Adaptive\n• Улучшена стабильность системы"
+                "ru": "",
+                "en": ""
             },
-            "file_size": "1.97 GB",
+            "file_size": "",
             "checksum": {
-                "sha256": "a1b2c3d4e5f6...",
-                "md5": "f0e1d2c3b4a5..."
+                "sha256": ""
             },
-            "url": "https://disk.yandex.ru/d/b4EHnnb560csTA/V8-T615T03-LF1V618.zip",
-            "important_note": "Requires USB flash drive FAT32 format"
+            "url": ""
         }
     ]
 }
