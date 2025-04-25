@@ -1,0 +1,14 @@
+{
+  "name": "tcl_tvs_updates",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/NucleusDi/TCL_TVs_Updates.git"
+  },
+  "private": true
+}
