@@ -326,15 +326,15 @@
         },
         {
             "model": "TCL C835",
-            "version": "V8-T615T03-LF1V617",
-            "release_date": "",
+            "version": "V8-T615T03-LF1V6177777777777777777777",
+            "release_date": "111",
             "description": {
                 "ru": "123",
                 "en": "123"
             },
-            "file_size": "",
+            "file_size": "222",
             "checksum": {
-                "sha256": ""
+                "sha256": "333"
             },
             "url": "https://123.ru"
         }
